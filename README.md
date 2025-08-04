@@ -1,0 +1,2 @@
+# LineMiniAppDemo
+LINEのミニアプリのデモです。
